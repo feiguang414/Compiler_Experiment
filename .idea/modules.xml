@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Compiler_Experiment.iml" filepath="$PROJECT_DIR$/.idea/Compiler_Experiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ldylex/ldylex.iml" filepath="$PROJECT_DIR$/ldylex/ldylex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parsing/parsing.iml" filepath="$PROJECT_DIR$/parsing/parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semantic/semantic.iml" filepath="$PROJECT_DIR$/semantic/semantic.iml" />
+    </modules>
+  </component>
+</project>
